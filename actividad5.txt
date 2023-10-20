@@ -2,7 +2,7 @@ Actividad 5
 Gestión del Proceso de Desarrollo de Software
 IDGS-UTM
 Arath Koh Velázquez
-Git flujo de tranajo 4
+Git flujo de trabajo 4
 
 Instrucciones:
 
