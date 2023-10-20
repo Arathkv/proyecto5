@@ -2,8 +2,9 @@ Actividad 5
 Gestión del Proceso de Desarrollo de Software
 IDGS-UTM
 Arath Koh Velázquez
-Git basic local workflow 4
+Actividad con un flujo de trabajo desde git con repositorio compartido
 
 Instrucciones:
 
 Realiza los pasos que se piden en git
+
